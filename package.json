@@ -1,0 +1,15 @@
+{
+  "name": "ejercicios-mios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Clases Ordenadores.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node params.js produccion 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
